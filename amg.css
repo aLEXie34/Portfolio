@@ -1,0 +1,50 @@
+body {
+    margin: 0%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+    /* Flexbox stuff */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* Text styles */
+    text-align: center;
+    color: white; /* ADD THIS LINE */
+
+    /* Background styles */
+    background-image: url('https://www.facebook.com/adroitmediagroup/photos/pb.100068373883546.-2207520000./450655841615251/?type=3');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  .hero h1
+  /* Text styles */
+  font-size: 5em;
+ 
+  /* Margins */
+  margin-top: 0;
+  margin-bottom: 0.5em;
+
+ }
+
+ .hero .btn {
+    /* Padding and margins */
+    padding: 1em;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+    /* Text styles */
+    color:white; /*Change This Line */
+    text-decoration: none;
+    font-size: 1.5em;
+
+    /* Border styles */
+    border: 3px solid white; /* Change This Line */
+    border-radius: 20px;
+
+ }
+
+
